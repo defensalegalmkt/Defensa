@@ -1,0 +1,2 @@
+cd source\repos\Defensa\Defensa\
+pyinstaller --onefile --windowed Defensa.py
